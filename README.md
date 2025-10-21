@@ -1,4 +1,10 @@
 ### Hi👋, I'm Igor.
+**`Front-End Developer`**
+
+My name is Igor Martins, I'm 26 years old, and I have a degree in Information Systems. I'm highly interested in the **Front-End area**, focusing on creating dynamic and user-friendly interfaces.
+
+**I am currently looking for a Junior position to apply and expand my skills.**
+
 ### 🤖 Languages ​​and Technologies
 
 <img 
