@@ -12,7 +12,9 @@ My name is Igor Martins, I'm 26 years old, and I have a degree in Information Sy
 <img align="left" alt="JAVASCRIPT" title="JAVASCRIPT" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TYPESCRIPT" title="TYPESCRIPT" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="ANGULAR" title="ANGULAR" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-<img align="left" alt="GIT" title="GIT" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GIT" title="GIT" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
+<img align="left" alt="GITHUB" title="GITHUB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
 <br>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=igormar7ins&show_icons=true&hide_border=true&theme=github_dark" />
